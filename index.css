@@ -1,0 +1,109 @@
+/* navbar start  */
+nav{
+    background:rgb(42 ,93,132);
+    height: 80px;
+}
+
+.navbar-expand-lg .container-fluid img{
+    height: 50px;
+    width: 75px;
+}
+
+.navbar-expand-lg .container-fluid .navbar-brand{
+    position: absolute;
+    bottom: 18px;
+    left: 110px;
+    font-size: 22px;
+}
+
+.navbar-expand-lg .container-fluid .navbar-nav a{
+    position: relative;
+    left: 10px;
+    font-size: 22px;
+    color: white;
+    border-bottom: 2px solid transparent;
+    transition:border-bottom 1s;
+}
+
+.navbar-expand-lg .container-fluid .navbar-nav a:hover{
+    border-bottom: 3px solid rgb(204, 43, 204);
+}
+
+.navbar-expand-lg .container-fluid .navbar-nav a:active{
+    color: rgb(195, 0, 255);
+}
+
+/* navbar end  */
+
+/* body start  */
+.container-fluid .font-weight-bold{
+    color: rgb(42 ,93,132);
+}
+
+.container-fluid .row #box1{
+    position: relative;
+    bottom: 15px;
+    width: 600px;
+    /* border: 3px solid red; */
+    left: 720px;
+}
+
+.container-fluid .row #box2{
+    position: relative;
+    bottom: 15px;
+    /* border: 3px solid red; */
+    right: 620px;
+}
+
+.container-fluid .row h3{
+    position: relative;
+    top: 10px;
+}
+
+.container-fluid .row button{
+    background: rgb(30, 172, 30);
+    color: white;
+}
+
+.container-fluid .row .b1{
+    position:relative;
+    right: 9px;
+}
+
+.container-fluid .row .b2{
+    position:relative;
+    left: 9px;
+}
+/* body end  */
+
+
+/* about start  */
+.aboutcontainer{
+    position: relative;
+    top:20px;
+}
+.aboutcontainer h4{
+    position: relative;
+    top: 10px;
+}
+.aboutcontainer .color{
+    color: rgb(42 ,93,132);
+    font-style: italic;
+}
+/* about end  */
+
+/* Fotter start  */
+#con:hover{
+    border: 2px solid red;
+}
+.icons #gmail{
+    position: relative;
+    right: 10px;
+}
+
+.icons #linkedin{
+    position: relative;
+    left: 10px;
+}
+
+/* Fotter end  */
