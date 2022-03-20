@@ -58,7 +58,7 @@
         <h3 class="lead muted"><b>TRANSFER MONEY </b><span id="sp" class="font-weight-bold">WITHIN A FEW SECONDS</span></h3>
         <br>
         <br>
-        <a href="transactionhistory.php"><button type="button" class="btn btn-lg b1">Transaction
+        <a href="transactionhistory.php"><button type="button" class="btn btn-lg b2">Transaction
         history</button>
         </a> &nbsp
         <a href="transfer.php"><button type="button" class="btn btn-lg b2" >Transfer
